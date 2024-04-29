@@ -1,0 +1,82 @@
+<div>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About us</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#doctors">Doctors</a></li>
+      <li><a href="#news">News</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#appointment">Appointment</a></li>
+    </ul>
+  </nav>
+  <h1>Hospital</h1>
+  <h2>Location: Some place</h2>
+  <h3>Leading the Way in Medical Excellence</h3>
+  <h4>Caring for Life</h4>
+  <h2>Hospital</h2>
+  <h4>Best Care for Your Health</h4>
+  <h1>Welcome to Hospital name</h1>
+  <h3>A Passion for Healing</h3>
+  <h4>All our best</h4>
+  <h4>5-Star Care</h4>
+  <h4>24 Hour</h4>
+  <h4>Always Caring</h4>
+  <h2>Hospital</h2>
+  <h3>Our Services</h3>
+  <h2>Hospital</h2>
+  <h3>Our Doctors</h3>
+  <ul>
+    <li>
+      <h4>Esha Parekh</h4>
+      <p>Neurology</p>
+      <a href="#view-profile">View Profile</a>
+    </li>
+  </ul>
+  <h2>Contact</h2>
+  <ul>
+    <li>
+      <h4>0123 Some place</h4>
+    </li>
+    <li>
+      <h4>9876 Some country</h4>
+    </li>
+    <li>
+      <h4>Location</h4>
+      <ul>
+        <li>
+          <p>(237) 681-812-255</p>
+        </li>
+        <li>
+          <p>(237) 666-331-894</p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h4>Emergency</h4>
+      <ul>
+        <li>
+          <p><a href="mailto:fildineeesoe@gmil.com">fildineeesoe@gmil.com</a></p>
+        </li>
+        <li>
+          <p><a href="mailto:myebstudios@gmail.com">myebstudios@gmail.com</a></p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h4>Email</h4>
+    </li>
+    <li>
+      <h4>Mon-Sat 09:00-20:00</h4>
+    </li>
+    <li>
+      <h4>Sunday Emergency only</h4>
+    </li>
+  </ul>
+  <h2>Our Contacts</h2>
+  <p>A passion for putting patients first</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat scelerisque tortor ornare ornare. Quisque placerat scelerisque tortor ornare ornare Convallis felis vitae tortor augue. Velit nascetur proin massa in. Consequat faucibus porttitor enim et....</p>
+  <p>Read More</p>
+  <p>By Author<br>Monday 05, September 2021<br>6886</p>
+  <h2>News</h2>
+  <p>People pay the doctor for his trouble; for his kindness, they still remain in his
